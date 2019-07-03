@@ -1,6 +1,6 @@
 # Hashmap #
 
-**Prompt:**
+**Objective:**
 Create a map and store integers and their word values.
 HashMap<Integer, String> myMap = new HashMap<Integer, String>();
 Prompt user to enter a number and print out the word value. 
